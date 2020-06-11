@@ -1,0 +1,1 @@
+python3 hw11_p2_train.py $1 $2
